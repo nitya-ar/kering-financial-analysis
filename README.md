@@ -22,11 +22,10 @@ This project analyses Kering’s financial performance across revenue, margins, 
 | Common Size Analysis           | Margin structure and asset composition as a percentage of revenue and assets                                                                    |
 | Brand Contribution Analysis    | Revenue share, operating income share, and margin by brand                                                                                      |
 | Financial Trend Analysis       | Comparison of Kering vs Gucci across revenue, margins, and cost structure                                                                       |
-| Returns & Efficiency           | ROE, ROIC, DuPont analysis, and working capital efficiency, including CCC                                                                        |
-| Forecasting & Scenario Analysis| Integrated workbook combining brand-level revenue forecasts (2026–2028) with best, base, and worst case scenarios driven by Gucci’s performance |
-| Scenario Analysis              | Best, base, and worst case scenarios driven by Gucci’s recovery trajectory                                                                      |
-| Core Findings                  | Quantified insights on concentration risk, margin decline, and profitability drivers                                                            |
-| Strategic Conclusions          | Clear recommendations based on financial and operational analysis                                                                               |
+| Returns & Efficiency           | ROE, ROIC, DuPont analysis, and working capital efficiency, including CCC                                                                       |
+| Forecasting & Scenario Analysis| Integrated workbook combining brand-level revenue forecasts (2026–2028) with best, base, and worst case scenarios driven by Gucci’s performance | 
+| Core Findings                  | Presents quantified insights on Gucci’s impact on group performance, including concentration risk, margin decline, and profitability drivers.   |
+| Strategic Conclusions          | Translates these insights into targeted actions to improve performance, reduce reliance on Gucci, and restore profitability.                    |
 
 ---
 
