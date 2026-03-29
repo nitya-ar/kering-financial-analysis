@@ -3,8 +3,7 @@
 A financial analysis of Kering Group focused on one key question:
 **To what extent does Gucci drive Kering’s overall profitability?**
 
-📊 **Download full Excel model:**  
-[Download Financial Model](https://drive.google.com/uc?export=download&id=1tYkmi6GLAQ12XKNv-ydMXtqQq9ZpVvCn)
+[![Excel](https://img.icons8.com/color/24/microsoft-excel-2019.png)](https://drive.google.com/uc?export=download&id=1tYkmi6GLAQ12XKNv-ydMXtqQq9ZpVvCn) Download Excel Model
 
 This project analyses Kering’s financial performance across revenue, margins, returns, and brand-level contribution, with a focus on identifying the key drivers of profitability and performance deterioration.
 
