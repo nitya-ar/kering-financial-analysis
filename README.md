@@ -34,7 +34,6 @@ This project analyses Kering’s financial performance across revenue, margins, 
 Recovery is achievable but entirely contingent on Gucci's successful repositioning and a gradual rebalancing of the brand portfolio.
 
 ---
----
 
 ## License
 All rights reserved. See LICENSE file for details.
