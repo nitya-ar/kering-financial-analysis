@@ -1,18 +1,15 @@
 # Kering S.A. - Financial Analysis
-
-A financial analysis of Kering Group focused on one key question:
-
-**To what extent does Gucci drive Kering’s overall profitability?**
-
-
-This project analyses Kering’s financial performance across revenue, margins, returns, and brand-level contribution, with a focus on identifying the key drivers of profitability and performance deterioration.
-
-
 <a href="https://drive.google.com/uc?export=download&id=1tYkmi6GLAQ12XKNv-ydMXtqQq9ZpVvCn">
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Download Excel" />
 </a>
 
 [Download Excel File](https://drive.google.com/uc?export=download&id=1tYkmi6GLAQ12XKNv-ydMXtqQq9ZpVvCn)
+
+A financial analysis of Kering Group focused on one key question:
+**To what extent does Gucci drive Kering’s overall profitability?**
+
+
+This project analyses Kering’s financial performance across revenue, margins, returns, and brand-level contribution, with a focus on identifying the key drivers of profitability and performance deterioration.
 
 ---
 ## Key Components
