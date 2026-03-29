@@ -35,5 +35,9 @@ Recovery is achievable but entirely contingent on Gucci's successful repositioni
 
 ---
 
-## License
-All rights reserved. See LICENSE file for details.
+## **Author**
+
+**Nitya Arya**  
+[LinkedIn](https://www.linkedin.com/in/nitya-arya/) | [GitHub](https://github.com/nitya-ar)
+
+---
