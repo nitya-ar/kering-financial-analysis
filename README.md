@@ -1,4 +1,4 @@
-# Kering S.A. — Financial Analysis
+# Kering S.A. - Financial Analysis
 
 A financial analysis of Kering Group focused on one key question:
 **To what extent does Gucci drive Kering’s overall profitability?**
